@@ -79,3 +79,10 @@ OmniDocBench 포맷의 문서 데이터셋에 대해 자동 추론을 수행하�
 
 ### 3.3 requirements.txt
 본 레포지토리를 실행하기 위해 필요한 Python 패키지 목록을 정의합니다.
+
+
+
+---
+# Who We Are
+http://okestro.com/
+
