@@ -88,6 +88,16 @@ OmniDocBench 포맷의 문서 데이터셋에 대해 자동 추론을 수행하�
 
 
 
+## Recommended Hardware
+
+Component | Recommendation
+--------- | --------------
+GPU | A100 40GB / 80GB
+Precision | bfloat16
+Batch size | 16–64
+Multi-GPU | DeepSpeed ZeRO-2
+
+
 ---
 ## Who We Are
 http://okestro.com/
